@@ -7,3 +7,7 @@ mosquitto.conf
 수정후 명령어
 
 mosquitto -v -c ./mosquitto.conf -d
+
+
+MQTT 개념 정리
+: https://docs.google.com/document/d/1cY0Z05MFCuLS8BvAPc6L69wLi78x22CoaPEu1UGtDm0/edit
